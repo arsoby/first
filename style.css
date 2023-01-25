@@ -1,3 +1,7 @@
+body{
+    background-color: #f6f6f6;
+    padding:0 3% 0 3% ;
+}
 p{
     background-color:skyblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
